@@ -2,8 +2,8 @@
  * This global array holds our collection of albums
  */
 var albums = [{
-  title: "The Best Albume Ever",
-  band:  "ME!",
+  title: "The White Album",
+  band:  "The Beatles",
   year:  1968
 }];
 
